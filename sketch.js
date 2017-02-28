@@ -17,3 +17,8 @@ function draw(){
     
 
 }
+
+// draw me 2 ellipses
+// draw me 2 rectangles
+// draw em 4 lines (1 wiht a positive slop, 1 with a neg slope,)
+// 1 with a slope of 0, and 1 with a slope of undefined.
